@@ -1,1 +1,2 @@
  this file is makeing to push in github to store our code
+adding nw=ew line to create new version of this 
